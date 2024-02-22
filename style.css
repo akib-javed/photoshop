@@ -1,0 +1,101 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    
+}
+body{
+    padding: 50px;
+    background-color: rgb(224, 206, 182);
+}
+
+.logo img{
+   height: 8vh;
+ 
+}
+.container{
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+.mid a{
+    text-decoration-line: none;
+    padding: 5px;
+    color: black;
+    
+}
+#number{
+    font-size: 150%;
+}
+.main{
+    position: relative;
+    left: 0;
+}
+#circle img{
+    width: 120%;
+}
+.female img{
+    top: 0;
+    left: 0;
+    position: absolute;
+    height: 100%;
+    
+    
+}
+#white{
+   background-color: white;
+
+}
+.section2{
+    display: flex;
+    text-align: center;
+    align-items: center;
+}
+.top1{
+    padding: 15px;
+    font-size: 10%;
+    height: 20%;
+    width:50%;
+}
+.top2{
+height: 20%;
+width:50%;
+}
+.top3{
+    padding-right: 0;
+    margin-right: 0;
+    padding: 20px;
+    height: 20%;
+    width:50%;
+    background-color: black;
+    margin-top: 5%;
+    align-items: center;
+}
+.top5{
+    background-color: antiquewhite;
+    width: 18%;
+    padding:15px;
+    margin-left: 0;
+    padding-left: 0;
+    
+    
+}
+.right{
+    position:relative
+}
+#you{
+    position: absolute;
+    width: 25%;
+    left: 40%;
+    top: 50%;
+}
+#bottom{
+    font-size: 150%;
+    font-weight: bold;
+    margin-right: 25px;
+}
+.social-media{
+    padding: 5px;
+    background-color: #E89651;
+    border-radius: 50%;
+}
