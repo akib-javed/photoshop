@@ -43,16 +43,12 @@ body{
     
 }
 .mid{
-    position: relative;
+    margin-bottom: 5px;
 }
-.opacity{
-    position: absolute;
-    min-height: 80px;
-    min-width: 55px;
+#opacity{
+    padding-top: 60px;
     background:linear-gradient(white,wheat);
-    left: 44.5%;
-    top: 20px;
-    z-index: -1;
+    
 }
 .section2{
    
