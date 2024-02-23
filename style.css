@@ -52,7 +52,6 @@ body{
     background:linear-gradient(white,wheat);
     left: 42.5%;
     top: 20px;
-    opacity: .8;
     z-index: -1;
 }
 .section2{
