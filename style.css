@@ -5,7 +5,9 @@
     
 }
 body{
-    padding: 50px;
+    width: 1440 px;
+    overflow: hidden;
+    padding: 30px;
     background-color: #f1e5d9;
 }
 
@@ -17,6 +19,8 @@ body{
     padding: 20px;
     display: flex;
     justify-content: space-between;
+    position: relative;
+   
 }
 .mid a{
     text-decoration-line: none;
@@ -46,7 +50,7 @@ body{
     margin-bottom: 5px;
 }
 #opacity{
-    padding-top: 60px;
+    padding-top: 70px;
     background:linear-gradient(white,wheat);
     
 }
@@ -103,4 +107,13 @@ width:50%;
     padding: 5px;
     background-color: #E89651;
     border-radius: 50%;
+}
+.whitecircle{
+    height: 20vh;
+    position: absolute;
+    background-color: white;
+    width: 20%;
+    border-radius: 50%;
+    right: -15%;
+    top: -80%;
 }
